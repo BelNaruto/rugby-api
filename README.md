@@ -1,4 +1,4 @@
-# FREE Rugby API
+# Free Rugby API
 
 The **Rugby API** provides a comprehensive suite of data for rugby enthusiasts and developers, offering real-time updates, player statistics, team information, and more. This API is designed to deliver detailed insights into rugby matches, player performance, and team statistics, enhancing applications and services related to rugby. This API can be found on RapidAPI, [Click here to open](https://rapidapi.com/belchiorarkad-FqvHs2EDOtP/api/rugby-live-data-complete)
 
